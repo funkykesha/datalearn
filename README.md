@@ -1,2 +1,2 @@
-# My homeworks for course Data Learn
-## https://datalearn.ru/
+My homeworks from course "Data Learn"
+https://datalearn.ru/
