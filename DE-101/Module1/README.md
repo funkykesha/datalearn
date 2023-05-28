@@ -6,14 +6,15 @@
 Сделал структуру сбора, хранения и визуализации маркетинговых данных, которые помогают принимать решения в отделе маркетинга. 
 Компания занимается очными и онлайн-консультациями.
 
-![PNG схемы](Analytical Solution.png)
+![PNG схемы](https://github.com/funkykesha/datalearn/blob/main/DE-101/Module1/Analytical%20Solution.png)
 
-[СКАЧАТЬ ФАЙЛ](https://github.com/funkykesha/datalearn/blob/main/DE-101/Module1/Analytical%20Solution.drawio)
+Скачать _**drawio**_ файл можно [здесь](https://github.com/funkykesha/datalearn/blob/main/DE-101/Module1/Analytical%20Solution.drawio)
 
 ### Дашборд в экселе
 
 Это первый опыт для меня в создании дашборда в экселе - было интересно!
 
-![Скриншот дашборда](screenshot - Sample - Superstore)
+![Скриншот дашборда](https://github.com/funkykesha/datalearn/blob/main/DE-101/Module1/screenshot%20-%20Sample%20-%20Superstore.png)
+Скачать _**xlsx**_ файл можно [здесь](https://github.com/funkykesha/datalearn/blob/main/DE-101/Module1/Sample%20-%20Superstore.xlsx)
 
-[СКАЧАТЬ ФАЙЛ](https://github.com/funkykesha/datalearn/blob/main/DE-101/Module1/Sample%20-%20Superstore.xlsx)
+🔙 [Вернуться в корневую папку](https://github.com/funkykesha/datalearn/tree/main/DE-101)
